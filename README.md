@@ -62,8 +62,12 @@ under-the-hood-labs
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FanyvXsync&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanyvXsync&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FanyvXsync&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FanyvXsync&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanyvXsync&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -86,6 +90,5 @@ under-the-hood-labs
 
 ## Aside
 
-偶尔玩独立游戏和类银河恶魔城，喜欢《神之亵渎》《空洞骑士》这类作品。也会看一些动漫、听歌，给自己回血。  
+偶尔玩独立游戏和类银河恶魔城，也看动漫、听歌，给自己回血。  
 我还年轻，很多地方都在补课，但会一直往前走。
-
