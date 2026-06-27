@@ -1,6 +1,6 @@
 # FanyvXsync
 
-> 向下生长，顶天立地。  
+> **功崇惟志，业广惟勤**。  
 > C++ / Linux / Systems Programming learner, building fundamentals under the hood.
 
 <p align="left">
@@ -60,10 +60,6 @@ under-the-hood-labs
 ---
 
 ## Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FanyvXsync&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=FanyvXsync&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
